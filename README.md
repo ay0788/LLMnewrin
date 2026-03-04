@@ -52,7 +52,7 @@ The platform includes:
 
 ## Target Users
 
-Mobile money operators
+-Mobile money operators
 
 -Financial institutions
 

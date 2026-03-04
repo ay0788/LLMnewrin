@@ -3,6 +3,8 @@
 
 This project presents a network-based fraud detection system designed for mobile money platforms. Instead of analyzing transactions individually, the system models the ecosystem as a dynamic graph of accounts, agents, devices, and transactions. By analyzing relationships and behavioral patterns across the network, it detects coordinated fraud schemes in real time.
 
+![Mermaid Diagram](https://github.com/ay0788/LLMnewrin/blob/main/mermaid-diagram.png?raw=true)
+
 ## Problem
 
 Mobile money adoption across Africa and Morocco has grown rapidly, increasing financial inclusion but also exposing ecosystems to sophisticated fraud. Traditional fraud detection systems rely on static rules or transaction-level machine learning models, which fail to capture collusion networks, intermediary accounts, and multi-step fraud strategies.

@@ -63,7 +63,7 @@ Mobile money operators
 
 The platform operates under a B2B subscription model. Pricing can be tiered based on transaction volume or service level. Additional revenue can come from advanced analytics and risk intelligence reporting.
 
-##Impact
+## Impact
 
 By detecting fraud at the network level, this solution:
 

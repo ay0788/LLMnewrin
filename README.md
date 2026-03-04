@@ -17,6 +17,7 @@ The proposed solution uses graph analytics and advanced AI models to detect frau
 Transactions, accounts, and agents are represented as nodes and edges in a graph structure. The system analyzes centrality, community patterns, and anomalies to assign real-time risk scores to each transaction.
 
 Depending on the risk level, the system can:
+
 -Allow the transaction
 
 -Request additional verification

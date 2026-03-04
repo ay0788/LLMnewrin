@@ -16,9 +16,13 @@ Transactions, accounts, and agents are represented as nodes and edges in a graph
 
 Depending on the risk level, the system can:
 -Allow the transaction
+
 -Request additional verification
+
 -Delay the transfer
+
 -Block suspicious activity
+
 -This graduated intervention approach ensures strong security while minimizing disruption for legitimate users.
 
 ## Proof of Concept
@@ -30,19 +34,29 @@ The results showed significantly improved accuracy compared to traditional rule-
 ## Architecture
 
 The platform includes:
+
 -Real-time data ingestion
+
 -Graph database storage
+
 -Feature engineering and graph analytics
+
 -AI-based risk scoring
+
 -Dashboard for monitoring and intervention
+
 -The solution is scalable, cloud-ready, and integrates with existing mobile money platforms through APIs.
 
 ## Target Users
 
 Mobile money operators
+
 -Financial institutions
+
 -Fintech companies
+
 -Regulators
+
 -Indirectly, it benefits mobile money users, small businesses, and unbanked populations by increasing security and trust.
 
 ## Business Model
@@ -51,10 +65,14 @@ The platform operates under a B2B subscription model. Pricing can be tiered base
 
 ##Impact
 
--By detecting fraud at the network level, this solution:
+By detecting fraud at the network level, this solution:
+
 -Reduces financial losses
+
 -Improves operational efficiency
+
 -Strengthens regulatory compliance
-Builds trust in digital financial systems
+
+-Builds trust in digital financial systems
 
 Ultimately, it supports financial inclusion and contributes to a safer and more resilient fintech ecosystem across Africa.
